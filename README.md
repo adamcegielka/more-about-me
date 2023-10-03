@@ -4,6 +4,7 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 
 ### My projects
 - [Locales.pl](http://locales.ct8.pl/)
+- [Eko Pasieka Wędrowna](http://pasieka-komarzeniec.ct8.pl/)
 - [website-html-css-js-adam-cegielka](https://github.com/adamcegielka/website-html-css-js-adam-cegielka)
 - [my-shop-automationpractice-pl](https://github.com/adamcegielka/my-shop-automationpractice-pl)
 - [playwright-cucumber-bdd-typescript](https://github.com/adamcegielka/playwright-cucumber-bdd-typescript)
