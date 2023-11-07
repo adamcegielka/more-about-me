@@ -3,6 +3,7 @@ Testing, detecting bugs and their causes, have been a passion of mine for a long
 I am a former Motoparagliding National Team competitor, winner of the Polish Championship title three times, and team bronze medal at the European Championships and the World Championships.
 
 ### My projects
+- [kawqa-gad-playwright - Project Collaboration](https://github.com/kat-kan/kawqa-gad-playwright)
 - [Locales.pl](https://locales.pl/)
 - [Eko Pasieka Wędrowna](http://pasieka-komarzeniec.ct8.pl/)
 - [website-html-css-js-adam-cegielka](https://github.com/adamcegielka/website-html-css-js-adam-cegielka)
