@@ -15,6 +15,9 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - [Guru99 Bank](https://github.com/adamcegielka/my-test-projects/tree/main/Guru99%20Bank)
 - [GoIT - QA Marathon](https://github.com/adamcegielka/my-test-projects/tree/main/GoIT%20-%20QA%20Marathon)
 
+### Gists
+- [Gist Github](https://gist.github.com/adamcegielka)
+
 ### Courses and Certificates
 - Automated Software Testing with Playwright [Udemy](https://www.udemy.com/certificate/UC-51ad433b-1fad-4dac-9b78-77420adcf25c/)
 - CI/CD Jenkins dla testera/programisty w praktyce! [Udemy](https://www.udemy.com/certificate/UC-d899e853-2b48-4abb-a448-48f65cf6e71d/)
