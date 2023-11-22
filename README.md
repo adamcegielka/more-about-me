@@ -18,6 +18,8 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - [Gist Github](https://gist.github.com/adamcegielka)
 
 ### Courses and Certificates
+- Rest API Testing (Automation) with Playwright & TypeScript [Udemy](https://www.udemy.com/course/rest-api-testing-automation-with-playwright-typescript)
+- Playwright Cucumber (BDD) - Typescript [Udemy](https://www.udemy.com/course/playwright-cucumber-bdd-typescript)
 - Automated Software Testing with Playwright [Udemy](https://www.udemy.com/certificate/UC-51ad433b-1fad-4dac-9b78-77420adcf25c/)
 - CI/CD Jenkins dla testera/programisty w praktyce! [Udemy](https://www.udemy.com/certificate/UC-d899e853-2b48-4abb-a448-48f65cf6e71d/)
 - Tester Oprogramowania [SDAcademy](https://app.diplomasafe.com/pl-PL/diploma/dda1858c45f1a2c64b347a92d895ef44acadce0c1)
