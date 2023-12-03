@@ -65,10 +65,6 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - Testowanie Oprogramowania - Rafał Pawlak
 - Bezpieczeństwo Aplikacji Webowych - Securitum
 
-### Other books
-- Włosi - John Hooper
-- Starożytny Rzym od Romulusa do Justyniana - Thomas R. Martin
-
 ### YouTube
 - [jaktestowac.pl](https://www.youtube.com/@jaktestowac)
 - [testuj.pl](https://www.youtube.com/@testujplcommunity)
