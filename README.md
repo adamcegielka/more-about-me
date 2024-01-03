@@ -18,6 +18,9 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - [Gist Github](https://gist.github.com/adamcegielka)
 
 ### Courses and Certificates
+- Build eCommerce websites with WordPress & WooCommerce [Udemy](https://bit.ly/ecommerce-wordpress-woocommerce)
+- Google Maps dla Biznesu: Wizytówka Firmy i Reklama Online [Udemy](https://bit.ly/wizytowka-google-maps)
+- Make a Responsive Portfolio Website: JavaScript and HTML [Udemy](https://bit.ly/responsive-portfolio-website)
 - Rest API Testing (Automation) with Playwright & TypeScript [Udemy](https://www.udemy.com/course/rest-api-testing-automation-with-playwright-typescript)
 - Playwright Cucumber (BDD) - Typescript [Udemy](https://www.udemy.com/course/playwright-cucumber-bdd-typescript)
 - Automated Software Testing with Playwright [Udemy](https://www.udemy.com/certificate/UC-51ad433b-1fad-4dac-9b78-77420adcf25c/)
