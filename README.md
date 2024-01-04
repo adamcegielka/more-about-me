@@ -18,6 +18,7 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - [Gist Github](https://gist.github.com/adamcegielka)
 
 ### Courses and Certificates
+- SEO i Pozycjonowanie Stron WWW w Google + SEO w WordPress [Udemy](https://bit.ly/seo-google-wordpress)
 - Build eCommerce websites with WordPress & WooCommerce [Udemy](https://bit.ly/ecommerce-wordpress-woocommerce)
 - Google Maps dla Biznesu: Wizytówka Firmy i Reklama Online [Udemy](https://bit.ly/wizytowka-google-maps)
 - Make a Responsive Portfolio Website: JavaScript and HTML [Udemy](https://bit.ly/responsive-portfolio-website)
