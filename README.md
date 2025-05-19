@@ -1,26 +1,13 @@
 ## About me
-Testing, detecting bugs and their causes, have been a passion of mine for a long time. In order to develop these abilities, I decided to take an intensive "Software Tester" course. According to the results of the Thomas PPA test, I am a thorough person who pays a lot of attention to detail, which makes me excel in my new role.<br>
-I am a former Motoparagliding National Team competitor, winner of the Polish Championship title three times, and team bronze medal at the European Championships and the World Championships.
+Testing, detecting bugs, and their causes have been a passion of mine for a long time. I decided to take an intensive "Software Tester" course to develop these abilities. According to the Thomas PPA test results, I am a thorough person who pays a lot of attention to detail, which makes me excel in my new role.<br>
+I am a former Motoparagliding National Team competitor, winner of the Polish Championship title three times, and a team bronze medalist at the European Championships and the World Championships.
 
 ### My projects
 - [Locales.pl](https://locales.pl/)
-- [Eko Pasieka Wędrowna](http://pasieka-komarzeniec.ct8.pl/)
 - [website-html-css-js-adam-cegielka](https://github.com/adamcegielka/website-html-css-js-adam-cegielka)
-- [my-shop-automationpractice-pl](https://github.com/adamcegielka/my-shop-automationpractice-pl)
-- [playwright-cucumber-bdd-typescript](https://github.com/adamcegielka/playwright-cucumber-bdd-typescript)
-- [sql-order-management](https://github.com/adamcegielka/sql-order-management)
-- [api-testing-with-postman](https://github.com/adamcegielka/api-testing-with-postman)
-- [AutomationExercise-Playwright](https://github.com/adamcegielka/my-test-projects/tree/main/AutomationExercise-Playwright)
-- [Guru99 Bank](https://github.com/adamcegielka/my-test-projects/tree/main/Guru99%20Bank)
-- [GoIT - QA Marathon](https://github.com/adamcegielka/my-test-projects/tree/main/GoIT%20-%20QA%20Marathon)
-
-### Gists
-- [Gist Github](https://gist.github.com/adamcegielka)
-
+  
 ### Courses and Certificates
-- SEO i Pozycjonowanie Stron WWW w Google + SEO w WordPress [Udemy](https://bit.ly/seo-google-wordpress)
 - Build eCommerce websites with WordPress & WooCommerce [Udemy](https://bit.ly/ecommerce-wordpress-woocommerce)
-- Google Maps dla Biznesu: Wizytówka Firmy i Reklama Online [Udemy](https://bit.ly/wizytowka-google-maps)
 - Make a Responsive Portfolio Website: JavaScript and HTML [Udemy](https://bit.ly/responsive-portfolio-website)
 - Rest API Testing (Automation) with Playwright & TypeScript [Udemy](https://www.udemy.com/course/rest-api-testing-automation-with-playwright-typescript)
 - Playwright Cucumber (BDD) - Typescript [Udemy](https://www.udemy.com/course/playwright-cucumber-bdd-typescript)
@@ -38,9 +25,7 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - [DevTools](https://developer.chrome.com/docs/devtools/)
 - [Kurs Javascript dla superbohaterów](https://kursjs.pl/)
 - [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)
-- [Playwright End To End Testing](https://www.lambdatest.com/blog/playwright-end-to-end-testing/)
-- [Cypress JavaScript Tutorial](https://www.lambdatest.com/learning-hub/cypress-javascript)
-- [Cypress with TypeScript](https://testautomationu.applitools.com/cypress-with-typescript/)
+- [Playwright e2e Testing](https://www.lambdatest.com/blog/playwright-end-to-end-testing/)
 
 ### Skills
 - Creating test cases
@@ -50,7 +35,6 @@ I am a former Motoparagliding National Team competitor, winner of the Polish Cha
 - SQL / MySQL database basics
 - API testing
 - Playwright
-- Java basics
 - Git
 - DevTools
 - Basics of automation tests
